@@ -1,0 +1,10 @@
+# AI Conversation Analyzer
+# Python 3.8+ required
+
+# No external dependencies for basic usage
+# Standard library only: argparse, json, csv, mmap, pathlib, datetime, collections
+
+# Optional dependencies for enhanced features
+# rich>=13.0.0  # Better console output
+# jinja2>=3.0   # HTML template export
+# pandas>=1.3   # Data analysis export
